@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4941d32c.css",
+    "main.js": "/static/js/main.ef0171ad.js",
+    "static/js/787.4baf19b9.chunk.js": "/static/js/787.4baf19b9.chunk.js",
+    "static/media/Registro - 65390.mp4": "/static/media/Registro - 65390.38649ceee54d99f98477.mp4",
+    "static/media/movie-trailer-soundtrack-27143.mp3": "/static/media/movie-trailer-soundtrack-27143.fd3839a600a3b2893307.mp3",
+    "static/media/pendulum-1934311_640.jpg": "/static/media/pendulum-1934311_640.b72eecf437746c681bf1.jpg",
+    "index.html": "/index.html",
+    "main.4941d32c.css.map": "/static/css/main.4941d32c.css.map",
+    "main.ef0171ad.js.map": "/static/js/main.ef0171ad.js.map",
+    "787.4baf19b9.chunk.js.map": "/static/js/787.4baf19b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4941d32c.css",
+    "static/js/main.ef0171ad.js"
+  ]
+}
